@@ -1,6 +1,7 @@
 # gitlearn
 
 本文件夹储存依照[廖雪峰官网 wiki](https://www.liaoxuefeng.com/wiki/896043488029600)提供的教程进行学习产生的文件。
+[git 常用十类命令](https://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 
 ## 笔记
 
