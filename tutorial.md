@@ -16,3 +16,11 @@ $ git config --global core.safecrlf false
 ```
 
 <http://blog.konghy.cn/2017/03/19/git-lf-or-crlf/>
+
+### 压缩合并
+
+```bash
+$ git merge -Xtheirs --squash master
+```
+
+如果保留checkout所在分支，参数可以换成`-Xours`
